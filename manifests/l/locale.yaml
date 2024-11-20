@@ -1,0 +1,9 @@
+PackageIdentifier: adambasly.learningservicesrepo
+PackageVersion: 1.0.2
+Locale: en-US
+Publisher: Adam Basly
+Name: learningservicesrepo
+Description: learningservicesrepo is a free open-source learning softare
+License: MIT
+ManifestType: defaultLocale
+ManifestVersion: 1.0.0
